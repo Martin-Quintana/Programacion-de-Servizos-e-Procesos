@@ -14,6 +14,7 @@ public class Ejemplo1 {
     /**
      * @param args the command line arguments
      */
+    //Inicia un bloc de notas
     public static void main(String[] args) throws IOException  {	   
 	   ProcessBuilder pb = new ProcessBuilder("NOTEPAD");
 	   Process p = pb.start();
