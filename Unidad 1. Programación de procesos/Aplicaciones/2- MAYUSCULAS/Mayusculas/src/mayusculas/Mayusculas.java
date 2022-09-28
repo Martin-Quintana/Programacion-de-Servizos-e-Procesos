@@ -13,7 +13,7 @@ public class Mayusculas {
 
           BufferedReader br = new BufferedReader(new 
                                      InputStreamReader(hijo.getInputStream()));
-//br buffer de entrada desde donde leemos datos que el proceso hijo nos deja
+        //br buffer de entrada desde donde leemos datos que el proceso hijo nos deja
           
           PrintStream ps = new PrintStream(hijo.getOutputStream());
           // ps buffer de salida en donde escribimos datos para 
