@@ -1,0 +1,20 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: FC5A-FA81
+
+ Directorio de C:\Users\a21martinqr\Documents\Martin\Programacion-de-Servizos-e-Procesos\Unidad 1. Programaci¢n de procesos\Primeros Ejemplos\EJEMPLO7\ejemplo7
+
+10/10/2022  08:27    <DIR>          .
+10/10/2022  08:27    <DIR>          ..
+10/10/2022  08:27    <DIR>          .idea
+11/10/2021  00:00    <DIR>          build
+26/09/2022  08:36             3.609 build.xml
+10/10/2022  08:27               433 ejemplo7.iml
+10/10/2022  08:27                 0 error.txt
+10/10/2021  23:53                85 manifest.mf
+10/10/2021  23:53    <DIR>          nbproject
+10/10/2022  08:27    <DIR>          out
+10/10/2022  08:27                 0 salida.txt
+10/10/2021  23:53    <DIR>          src
+11/10/2021  00:02    <DIR>          test
+               5 archivos          4.127 bytes
+               8 dirs  74.623.668.224 bytes libres
