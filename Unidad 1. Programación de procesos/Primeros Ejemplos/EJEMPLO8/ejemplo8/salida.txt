@@ -1,0 +1,27 @@
+Microsoft Windows [Versi¢n 10.0.19044.1706]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\a21martinqr\Documents\Martin\Programacion-de-Servizos-e-Procesos\Unidad 1. Programaci¢n de procesos\Primeros Ejemplos\EJEMPLO8\ejemplo8>MKDIR NUEVO
+
+C:\Users\a21martinqr\Documents\Martin\Programacion-de-Servizos-e-Procesos\Unidad 1. Programaci¢n de procesos\Primeros Ejemplos\EJEMPLO8\ejemplo8>CD NUEVO
+
+C:\Users\a21martinqr\Documents\Martin\Programacion-de-Servizos-e-Procesos\Unidad 1. Programaci¢n de procesos\Primeros Ejemplos\EJEMPLO8\ejemplo8\NUEVO>ECHO CREO UN FICHERO EN CARPETA NUEVA > Mifichero.txt
+
+C:\Users\a21martinqr\Documents\Martin\Programacion-de-Servizos-e-Procesos\Unidad 1. Programaci¢n de procesos\Primeros Ejemplos\EJEMPLO8\ejemplo8\NUEVO>DIR
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: FC5A-FA81
+
+ Directorio de C:\Users\a21martinqr\Documents\Martin\Programacion-de-Servizos-e-Procesos\Unidad 1. Programaci¢n de procesos\Primeros Ejemplos\EJEMPLO8\ejemplo8\NUEVO
+
+10/10/2022  08:34    <DIR>          .
+10/10/2022  08:34    <DIR>          ..
+10/10/2022  08:34                35 Mifichero.txt
+               1 archivos             35 bytes
+               2 dirs  74.621.730.816 bytes libres
+
+C:\Users\a21martinqr\Documents\Martin\Programacion-de-Servizos-e-Procesos\Unidad 1. Programaci¢n de procesos\Primeros Ejemplos\EJEMPLO8\ejemplo8\NUEVO>DIRR
+
+C:\Users\a21martinqr\Documents\Martin\Programacion-de-Servizos-e-Procesos\Unidad 1. Programaci¢n de procesos\Primeros Ejemplos\EJEMPLO8\ejemplo8\NUEVO>ECHO FIN COMANDOS 
+FIN COMANDOS 
+
+C:\Users\a21martinqr\Documents\Martin\Programacion-de-Servizos-e-Procesos\Unidad 1. Programaci¢n de procesos\Primeros Ejemplos\EJEMPLO8\ejemplo8\NUEVO>
